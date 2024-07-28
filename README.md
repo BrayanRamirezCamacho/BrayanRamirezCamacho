@@ -1,6 +1,8 @@
 # Welcome to My GitHub Profile! 👋
 
+<!--
 ![Profile Banner](https://your-banner-image-url.com) <!-- Replace with your banner image URL -->
+![Header](./github-header-image.png)
 
 I'm a passionate **Data Scientist** and **Software Developer** with expertise in various tools and technologies to turn data into actionable insights.
 
@@ -26,22 +28,27 @@ I'm a passionate **Data Scientist** and **Software Developer** with expertise in
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
 
 ## 🚀 Projects
-
+<!--  
 ### 📊 Power BI Dashboards
 - **[Project Name](https://github.com/yourusername/project-link)**: Description of the project and its key features.
 ![Power BI Dashboard Screenshot](https://your-dashboard-image-url.com) <!-- Replace with your project image URL -->
 
+<!--
 ### 🗺️ Geographic Information Systems
 - **[Project Name](https://github.com/yourusername/project-link)**: Description of the project and its key features.
 ![QGIS Project Screenshot](https://your-qgis-image-url.com) <!-- Replace with your project image URL -->
 
+<!--
 ### ☁️ Cloud Solutions
 - **[Project Name](https://github.com/yourusername/project-link)**: Description of the project and its key features.
 ![Azure Project Screenshot](https://your-azure-image-url.com) <!-- Replace with your project image URL -->
 
+
+<!--
 ### 🐳 Containerized Applications
 - **[Project Name](https://github.com/yourusername/project-link)**: Description of the project and its key features.
 ![Docker Project Screenshot](https://your-docker-image-url.com) <!-- Replace with your project image URL -->
+
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
@@ -49,7 +56,7 @@ I'm a passionate **Data Scientist** and **Software Developer** with expertise in
 
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/brayan-alexis-ramírez-camacho-017844149/)
-[![X](https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?size=338&ext=jpg&ga=GA1.1.2008272138.1721779200&semt=sph)](https://x.com/kulcentauri)
+[![X](https://img.shields.io/twitter/follow/:kulcentauri)](https://x.com/kulcentauri)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](
 )
 
@@ -57,4 +64,4 @@ I'm a passionate **Data Scientist** and **Software Developer** with expertise in
 
 ---
 
-*This README was generated with ❤️ by [Your Name](https://github.com/yourusername).*
+*This README was generated with ❤️ by Brayan Alexis Ramirez Camacho (https://github.com/BrayanRamirezCamacho).*
